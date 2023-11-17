@@ -1,4 +1,4 @@
-import { productListViewModel } from "./ViewModel";
+import { productListViewModel } from "./viewmodel";
 import { productModel } from "./model";
 import { productView } from "./view";
 

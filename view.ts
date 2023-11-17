@@ -1,4 +1,4 @@
-import { productListViewModel } from "./ViewModel";
+import { productListViewModel } from "./viewmodel";
 
 //Se crea la clase Vista que se encarga de mostrar la lista
 export class productView {

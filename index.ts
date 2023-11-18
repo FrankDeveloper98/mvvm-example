@@ -11,7 +11,7 @@ viewModelController.addProduct(product4)
 const view = new productView(viewModelController)
 //Se carga la lista de producto para ser mostrada
 view.render()
-//Se elimina un producot de la lista mediante el controlador
+//Se elimina un producto de la lista mediante el controlador
 viewModelController.deleteProduct(product4)
 console.log("\n")
 //Se actualiza la lista nuevamente para que los cambios se reflejen
